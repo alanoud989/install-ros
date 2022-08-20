@@ -35,6 +35,9 @@ Ros is a robot operating system used to simulate a robot like an arm.
 ![image](https://user-images.githubusercontent.com/95648490/185769685-a06e4acd-631f-41d3-96e1-db27c783e405.png)
 # Useful references are:
 1- https://youtu.be/d7HHUP8a-FE
+
 2- https://www.virtualbox.org/wiki/Downloads
+
 3- https://releases.ubuntu.com/16.04/
+
 4- https://s-m.com.sa/ros.txt
